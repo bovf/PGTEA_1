@@ -16,3 +16,5 @@
 
 # Write a program that gets an integer x as input and prints out a multiplication table with x numbers.
 
+for i in range(3):
+    print(i)
